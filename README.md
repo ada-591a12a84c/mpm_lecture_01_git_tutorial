@@ -4,3 +4,5 @@ This repo was created for lecture 01 - git basics tutorial.
 #git diff
 #git commit -a -m "update readme"
 #non-local changes
+
+#git conflict check
