@@ -20,3 +20,6 @@ This repo was created for lecture 01 - git basics tutorial.
 #git add .gitignore
 #git creates a hash
 #git push -u origin branch_name
+#non-local changes
+
+#git conflict check
